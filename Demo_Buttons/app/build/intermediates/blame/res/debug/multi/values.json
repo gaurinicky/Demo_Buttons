@@ -1,0 +1,218 @@
+[
+    {
+        "outputFile": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 114,
+                        "endColumn": 53,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 55,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 37,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 48,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 53,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 50,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endColumn": 43,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 39,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 50,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 64,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 35,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 33,
+                    "endOffset": 625
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 630,
+                    "endColumn": 35,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 46,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 52,
+                    "endOffset": 761
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 766,
+                    "endColumn": 58,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 47,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

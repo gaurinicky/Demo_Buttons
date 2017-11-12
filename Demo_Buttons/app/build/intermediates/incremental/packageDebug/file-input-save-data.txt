@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sun Sep 24 18:37:17 EDT 2017
+2.base=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9dcd06b7bd0089fca9798dc148b6f3de473fc21e
+5.file=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\smiley.png
+2.set=DEX
+4.base=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\bs_normal.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+9.set=DEX
+9.file=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_de16c126834b66570e45d422cfd199779cd6ac36\\classes.dex
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9dcd06b7bd0089fca9798dc148b6f3de473fc21e\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_de16c126834b66570e45d422cfd199779cd6ac36
+4.file=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Buttons_gauri9\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land-v17\\main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
